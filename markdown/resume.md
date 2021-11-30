@@ -21,27 +21,22 @@ Summary
 * Fixing a problem correctly the first time is preferable to leaving it to
   resurface later, but getting things done is the most important part.
 
-Relevant Skills
----------------
-
-Core
-:   Performance and Capacity Planning, Code Review, AWS, Linux, Bash, git,
-    Terraform, Helm, Kubernetes, Elasticsearch, Docker, Nginx, Ansible,
-    Logstash
-
-Familiar
-:   MySQL, PostgreSQL, MongoDB, Vault, Nagios, Hubot, Graphite, Puppet,
-    RegEx, Apache httpd, Python, Ruby, OSSEC, Vagrant, HIPAA, PCI-DSS
-
-Other
-:   Mediawiki, markdown, Jira, kanban, scrum, node.js, CoffeeScript
-:   Read and comprehend most C-Family languages
-
 Experience
 ----------
 
+### Eleanor Health - Waltham, MA
+**Head of Infrastructure**; 4/2021 — Present
+
+Worked with our engineering team to create highly available infrastructure to
+run our platform on, including standardized logging, metrics, monitoring which
+allow us to move quickly with little customer facing downtime. Improved build
+pipelines and CI/CD process. Worked with external partners to set up multiple
+systems for data ingestion and processing. Prepared for HITRUST certification.
+Wrote and maintained documentation around onboarding, production readiness,
+hiring, and more.
+
 ### Sun Life (Maxwell Health) - Boston, MA
-**Associate Director, Senior Infrastructure Engineer**; 1/2019 — Present
+**Associate Director, Senior Infrastructure Engineer**; 1/2019 — 4/2021
 
 As the technical lead for the infrastructure team, I worked with engineering
 teams to advise on platform and architecture decisions. With the infrastructure
@@ -107,6 +102,22 @@ Created a PC cloning and imaging solution for the rapid deployment of employee
 systems using Clonezilla and DRBL. Assisted in the design and implementation
 of escalation procedures for operations to development. Took over as sole Linux
 systems administrator and became a full-time employee.
+
+Relevant Skills
+---------------
+
+Core
+:   Performance and Capacity Planning, Code Review, AWS, Linux, Bash, git,
+    Terraform, Helm, Kubernetes, Elasticsearch, Docker, Nginx, Ansible,
+    Logstash
+
+Familiar
+:   MySQL, PostgreSQL, MongoDB, Vault, Nagios, Hubot, Graphite, Puppet,
+    RegEx, Apache httpd, Python, Ruby, OSSEC, Vagrant, HIPAA, PCI-DSS
+
+Other
+:   Mediawiki, markdown, Jira, kanban, scrum, node.js, CoffeeScript
+:   Read and comprehend most C-Family languages
 
 Education
 ---------
