@@ -36,18 +36,14 @@ $for(header-includes)$
   $header-includes$
 $endfor$
 
-<!-- Global Site Tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49441297-1"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MD4SJWKQQQ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments)};
+  function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-49441297-1');
-</script>
-
-<script>
-  gtag('config', 'UA-49441297-2');
+  gtag('config', 'G-MD4SJWKQQQ');
 </script>
 
 </head>
