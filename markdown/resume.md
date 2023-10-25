@@ -4,7 +4,7 @@ Chen JingFeng
 ---------------------        --------------------------------------------------
 50 Manning Rd                                              <cjfff1996@gmail.com>
 Chelmsford, MA 01824              [GitHub:cjfff](http://github.com/cjfff)
-+1 978.822.0077              [LinkedIn](https://linkedin.com/in/bradfordclark/)
++86 13533247097              [LinkedIn](https://linkedin.com/in/bradfordclark/)
 ---------------------        --------------------------------------------------
 
 ---
