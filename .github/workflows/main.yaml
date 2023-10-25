@@ -35,6 +35,7 @@ jobs:
           path: output/*
 
   deploy:
+    needs: build-resume
     # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
     permissions:
       pages: write # to deploy to Pages
