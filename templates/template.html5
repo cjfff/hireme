@@ -36,16 +36,6 @@ $for(header-includes)$
   $header-includes$
 $endfor$
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-MD4SJWKQQQ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-MD4SJWKQQQ');
-</script>
-
 </head>
 <body>
 $for(include-before)$
