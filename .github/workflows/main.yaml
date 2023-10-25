@@ -32,8 +32,9 @@ jobs:
           # Artifact name
           name: Upload Pages artifact # optional, default is artifact
           # A file, directory or wildcard pattern that describes what to upload
-          source: ./output
-          path: ./docs
+          page: ./docs
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
 
   # Deployment job
   deploy:

@@ -1,6 +1,6 @@
 # SHELL := /bin/bash
 
-OUT_DIR=output
+OUT_DIR=docs
 IN_DIR=markdown
 STYLES_DIR=styles
 STYLE=chmduquesne_purple
